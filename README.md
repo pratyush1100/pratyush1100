@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyush Kumar.</h1>
 <h3 align="center">I'm currently learning backend development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush1100&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush1100" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyush1100" alt="pratyush1100" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS, Mongo DB**
