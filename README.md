@@ -3,9 +3,9 @@
 
 ##### About Me-
 
-- 🌱 I’m currently learning **Node JS, Mongo DB**
+- 🌱 I’m currently learning **React.Js, Node JS(Paused), Mongo DB(Paused)**
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, SCSS**
 
 - 📫 How to reach me **pratyush1100.dev@gmail.com**
 
