@@ -20,3 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyush1100&show_icons=true&locale=en" alt="pratyush1100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush1100&" alt="pratyush1100" /></p>
+
+# Activity Graph
+
+
+![Pratyush's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=pratyush1100&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+
