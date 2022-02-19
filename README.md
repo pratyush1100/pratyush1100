@@ -30,5 +30,3 @@
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=pratyush1100&theme=react-dark)
 <br>
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=pratyush1100.pratyush1100" alt="pratyush1100 :: Visitor's Count" /></p>
