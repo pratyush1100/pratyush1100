@@ -18,7 +18,7 @@
 
 ### My Stats 🏅
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush1100&theme=react" alt="pratyush1100" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush1100&theme=react" alt="pratyush1100" />
 <br>
 
 ## Github Status 🏆
