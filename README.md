@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush Kumar.</h1>
-<h3 align="center">I'm currently learning backend development.</h3>
+<h3 align="center">I'm a frontend developer.</h3>
 
 ##### About Me-
 
