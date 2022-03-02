@@ -18,7 +18,7 @@
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush1100&theme=react)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush1100&theme=react)
 
 <br>
 
