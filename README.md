@@ -3,7 +3,7 @@
 
 ##### About Me-
 
-- 🌱 I’m currently learning **React.Js, Node JS(Paused), Mongo DB(Paused)**
+- 🌱 I’m currently learning **React.Js**
 
 - 💬 Ask me about **HTML, CSS, JS, SCSS**
 
