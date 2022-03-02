@@ -33,8 +33,4 @@
 
 ## Certificates
 
-<details>
-<summary>Certificates That I Earned</summary>
-<br>
 <img  src="https://telegra.ph/file/8e08c2382753f2f470337.jpg" width="48%" >
-</details>
