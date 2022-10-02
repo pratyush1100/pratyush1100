@@ -31,6 +31,9 @@
 ![github graph](https://activity-graph.herokuapp.com/graph?username=pratyush1100&theme=react-dark)
 <br>
 
+##Badges🥇
+[![@pratyush1100's Holopin board](https://holopin.io/api/user/board?user=pratyush1100)](https://holopin.io/@pratyush1100)
+
 ## Certificates🥇
 
 <img  src="https://telegra.ph/file/8e08c2382753f2f470337.jpg" width="48%" > <img  src="https://telegra.ph/file/54d3355f7254e8045d7b6.png" width="48%" >
