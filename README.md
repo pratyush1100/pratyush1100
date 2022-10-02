@@ -31,7 +31,7 @@
 ![github graph](https://activity-graph.herokuapp.com/graph?username=pratyush1100&theme=react-dark)
 <br>
 
-##Badges🥇
+## Badges🥇
 
 [![@pratyush1100's Holopin board](https://holopin.io/api/user/board?user=pratyush1100)](https://holopin.io/@pratyush1100)
 
