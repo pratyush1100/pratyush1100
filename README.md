@@ -32,6 +32,7 @@
 <br>
 
 ##Badges🥇
+
 [![@pratyush1100's Holopin board](https://holopin.io/api/user/board?user=pratyush1100)](https://holopin.io/@pratyush1100)
 
 ## Certificates🥇
