@@ -28,7 +28,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush1100&theme=react" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=pratyush1100&theme=react-dark)
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=pratyush1100&theme=react)
 <br>
 
 ## Badges🥇
